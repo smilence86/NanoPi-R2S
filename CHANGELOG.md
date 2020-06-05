@@ -1,5 +1,6 @@
 ## 20200606
 * 编译开启ADGuard HOME
+* 取消OpenClash
 
 
 ## 20200509
